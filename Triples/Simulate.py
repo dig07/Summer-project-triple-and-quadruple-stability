@@ -52,7 +52,7 @@ def save_data(filename):
 
 
 
-a_ratio,qoutlist,samples_eccentricities,inclinations = load_data('Result')
+a_ratio,qoutlist,samples_eccentricities,inclinations = load_data('Initial_data.txt')
 
 '''Set up final counter arrays as multiprocessing arrays which all processes can access'''
 a_ratio_counter = multiprocessing.Array("d", [0]*len(a_ratio))
