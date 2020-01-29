@@ -2,14 +2,14 @@
 Student: Diganta Bandopadhyay<br>
 Supervisor: Dr Silvia Toonen<br><br>
 Summer project by undergraduate student investigating the dynamical stability of hierarchical triple and quadruple stellar systems. Stellar systems are 
-picked from probability distributions of orbital parameters; orbital seperations, eccentricities and mass ratios. Main purpose of study is to expose any
+picked from probability distributions of orbital parameters; orbital separations, eccentricities and mass ratios. Main purpose of study is to expose any
 underlying stability biases within orbital parameter distributions. <br><br>
 <b>Triple stellar systems key results</b>
 <ul>
   <li>Orbits with eccentricities picked from a thermal distribution
   are more likely to undergo interactions between the inner
   binary and the triple star.</li>
-  <li>T14 orbital seperation distribution produces more systems with binary-triple
+  <li>T14 orbital eparations distribution produces more systems with binary-triple
   interactions than OBin.</li>
   <li>Flat and 1/q mass distributions both produce similar numbers of stable stellar systems.</li>
 </ul>
@@ -18,7 +18,7 @@ underlying stability biases within orbital parameter distributions. <br><br>
   <li>Massive stars are observed to have more companions and tend
   to be in more compact orbits (observational evidence). There
   may be some link between the number of companions and the
-  size of orbit, in the quadruple case the inner binary orbital separation (stable) is
+  size of orbit, in the quadruple case the inner binary orbital separations (stable) is
   pushed to lower orbital separations (more often) than in the
   triple case.</li>
 </ul>
